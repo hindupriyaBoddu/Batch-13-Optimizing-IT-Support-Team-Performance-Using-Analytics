@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis Dashboard
+# 📊 Service Desk Using Data Analysis
 
 ## 📌 Overview
 This project presents a Power BI dashboard built to analyze student performance data.  
